@@ -8,3 +8,4 @@ ruff
 flake8-typing-imports
 isort
 mypy
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
